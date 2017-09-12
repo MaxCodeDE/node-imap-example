@@ -1,0 +1,18 @@
+{
+  "name": "imap-example",
+  "version": "1.0.0",
+  "description": "Example of an node imap client",
+  "main": "index.js",
+  "scripts": {
+      "start": "node index.js"
+  },
+  "keywords": [
+    "imap",
+    "node"
+  ],
+  "author": "MaxCode",
+  "license": "ISC",
+  "dependencies": {
+    "imap-simple": "3.2.0"
+  }
+}
